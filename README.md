@@ -62,12 +62,11 @@ The identified hub genes are well-known drivers of breast cancer. Enrichment ana
 This project demonstrates the utility of PPI network analysis in identifying key regulatory genes in breast cancer. The workflow can serve as a foundation for future in-silico or wet lab validation.
 
 ## 6. Files Included
- [breast_cancer_genes.xlsx](https://github.com/user-attachments/files/21187085/breast_cancer_genes.xlsx) – List of 100 breast cancer–related genes  
-![ppi compressed](https://github.com/user-attachments/assets/6f2ad19e-fe7d-[AttrTable breast_cancer_genes.xlsx 0.csv](https://github.com/user-attachments/files/21187156/AttrTable.breast_cancer_genes.xlsx.0.csv)
-4a38-b4f5-a917b92164bb) – STRING visual output  
-[Uploading AttrTable breast_cancer_genes.xlsx 0.csv…]() – Tabular network data  
-[hub_genes.txt](https://github.com/user-attachments/files/21187160/hub_genes.txt)  – Identified hub genes  
-<img width="1907" height="1708" alt="gProfiler_hsapiens_2025-07-11_16-25-35" src="https://github.com/user-attachments/assets/d6d4f396-ccc9-4528-86be-74934cf1ffc3" /> – Enrichment analysis output  
+1.  [breast_cancer_genes.xlsx](https://github.com/user-attachments/files/21187085/breast_cancer_genes.xlsx) – List of 100 breast cancer–related genes  
+2.  ![ppi compressed](https://github.com/user-attachments/assets/50e8666d-0f69-4fb1-8bd1-5649058c55dd) – STRING visual output  
+3. [Uploading AttrTable breast_cancer_genes.xlsx 0.csv…]() – Tabular network data  
+4. [hub_genes.txt](https://github.com/user-attachments/files/21187160/hub_genes.txt)  – Identified hub genes  
+5. <img width="1907" height="1708" alt="gProfiler_hsapiens_2025-07-11_16-25-35" src="https://github.com/user-attachments/assets/d6d4f396-ccc9-4528-86be-74934cf1ffc3" /> – Enrichment analysis output  
 
 ## 7. References
 
